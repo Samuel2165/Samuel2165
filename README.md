@@ -38,14 +38,16 @@ That philosophy of contributing to shared knowledge, simply because it makes the
 [<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>](https://www.r-project.org/)
 [<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>](https://www.python.org/)
 [<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>](https://en.wikipedia.org/wiki/SQL)
-[<img src="https://img.shields.io/badge/SPARQL-00A3E0?style=for-the-badge&logo=sparql&logoColor=white" alt="SPARQL"/>](https://www.w3.org/TR/sparql11-query/)
-[<img src="https://img.shields.io/badge/AMPL-EF3921?style=for-the-badge" alt="AMPL"/>](https://ampl.com/)
+[<img src="https://img.shields.io/badge/SPARQL-00A3E0?style=for-the-badge&logo=apachespark&logoColor=white" alt="SPARQL"/>](https://www.w3.org/TR/sparql11-query/)
+[<img src="https://img.shields.io/badge/AMPL-EF3921?style=for-the-badge&logo=sagemath" alt="AMPL"/>](https://ampl.com/)
+
+
 
 #### Data, AI & Semantic Technologies
 
 [<img src="https://img.shields.io/badge/Machine_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Machine Learning"/>](https://pytorch.org/)
-[<img src="https://img.shields.io/badge/Ontologies-7B1FA2?style=for-the-badge" alt="Ontologies"/>](https://www.w3.org/standards/semanticweb/ontology)
-[<img src="https://img.shields.io/badge/Data_Protection-2E7D32?style=for-the-badge" alt="Data Protection"/>](https://en.wikipedia.org/wiki/Information_privacy)
+[<img src="https://img.shields.io/badge/Ontologies-7B1FA2?style=for-the-badge&logo=graphql" alt="Ontologies"/>](https://www.w3.org/standards/semanticweb/ontology)
+[<img src="https://img.shields.io/badge/Data_Protection-2E7D32?style=for-the-badge&logo=torproject" alt="Data Protection"/>](https://en.wikipedia.org/wiki/Information_privacy)
 [<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>](https://powerbi.microsoft.com/)
 [<img src="https://img.shields.io/badge/Power_Query-107C41?style=for-the-badge" alt="Power Query"/>](https://powerquery.microsoft.com/)
 
